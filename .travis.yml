@@ -1,0 +1,4 @@
+language: python
+env:
+  TARGET_ENV=test.environment
+script: travis.sh
