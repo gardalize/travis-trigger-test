@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 echo "TARGET_ENV=${TARGET_ENV}"
-env
+echo "SOMETHING=${SOMETHING}"
+echo "ANOTHER=${ANOTHER}"
+
+
 
 
