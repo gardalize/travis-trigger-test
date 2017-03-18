@@ -1,4 +1,8 @@
 language: python
 env:
-  TARGET_ENV=test.environment
+  global:
+    - TARGET_ENV=test.environment
+    - SOMETHING=defaultvalue
+    - ANOTHER=defaultvalue
+ 
 script: ./travis.sh
