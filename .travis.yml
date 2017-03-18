@@ -4,5 +4,6 @@ env:
     - TARGET_ENV=test.environment
     - SOMETHING=defaultvalue
     - ANOTHER=defaultvalue
+    - secure: "VIkiVezYiVbeMzUzjhkGonvOBsn2F5rrkgkPaL+y89PuXz1FtT8ogw/Y9AUaOjBLGcOKwFExxpHWTVaiJdMvOSipw89g4z6NfPWnkeXgVcuM+DlLHIUPE9YeOUaV9o0cM7Hw/QIeXfIq4xGATuBvfW70AEbH6fNHgS1oNVx/dZizGfMa5fzbmFvpc0tRGdQS0572pMf+EPB5TAczGMabIlNuefLq0li6ZFUrO5j2go0/x0FnPTc+nwJ1u0SWgM7/UiUGhGzObggtkKwfttDHpog53xFwJRWrRT1T60weKoHbgNYvGWa3aPF4Re97KcrUTN/LBWd2NQRKDCSBxIyp8NlY508Thmx5TIsdfvWB+B1LoYfiDC8VdLl58o9W8Xfz4SK0I8BRwOLbSIuU5UkFvctgDfscTfwZ9c3NFvGNYHrg2zvCuuXVj4k4+u7XKcoYzyzpwS4tAj0/cSM4PBMQPfm0C/YS8hA9wCkzoGLPW/3PBHZBNLizJIP4NZwvPaRDkNm/B2t1AcUPxsrRkcCnPMSsN1iQUbKxIV4BoadbBeH1A8vTVBjEsthYGjHfStDwkXjaecAYmBfEACZ/0AdndhXe8LZFhlhdLnQ+gm9p8EBopQPy2+7H702qWBc39D97+5hX31LyPncOIl/Motmv4zvK+R7Qj/ghmoMlT/wmydM="
  
 script: ./travis.sh
